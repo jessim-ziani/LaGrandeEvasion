@@ -18,7 +18,7 @@ To meet the academic requirements (developed in Unity using C#), several interac
 * **Artificial Intelligence:** Pathfinding via NavMesh and a patrol system (State Machine) including player detection mechanics.
 * **Interactive Environment:** Modular scripts (Raycasting) for inventory management (collecting keys) and environment manipulation (e.g., rotating paintings).
 * **Dynamic Puzzles:** Puzzle logic coupled with an Event-driven system controlling dynamic lighting sequences.
-* **Level Design & Atmosphere: Custom construction of the prison environment by assembling and texturing various 3D assets, combined with dynamic lighting configuration to build an oppressive atmosphere.
+* **Level Design & Atmosphere:** Custom construction of the prison environment by assembling and texturing various 3D assets, combined with dynamic lighting configuration to build an oppressive atmosphere.
 
 ## Controls
 ```text
