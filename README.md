@@ -25,3 +25,19 @@ To meet the academic requirements (developed in Unity using C#), several interac
 [Z] [Q] [S] [D] - Movement (AZERTY)
 [SHIFT]         - Sprint
 [E]             - Interact
+```
+## Tech Stack
+Tools and technologies used for this build (1.76 GB):
+
+* **Game Engine:** Unity 3D
+* **Language:** C#
+* **3D Modeling:** Blender
+* **Version Control:** Git (EPITA Forge / GitHub)
+
+## The Team
+Academic project developed by a group of 4 engineering students at EPITA:
+
+* **Jessim Ziani** - Developer / UI & Level Designer
+* **Wael** - [@Wael-beginner](https://github.com/Wael-beginner)
+* **Youcef** - [@youcefzahra](https://github.com/youcefzahra)
+* **Skylegend** - [@skylegend31](https://github.com/skylegend31)
