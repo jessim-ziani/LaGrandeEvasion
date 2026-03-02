@@ -7,10 +7,10 @@ https://github.com/user-attachments/assets/62590c32-d57e-4676-9f93-a0a87d0314cc
 
 ---
 
-> **Disclaimer:** This game was developed by a team of four students during our first year at EPITA. In accordance with the school's strict academic integrity and anti-plagiarism policies, the source code (C#) for this project is kept private. This repository serves as a technical and visual showcase. Code architecture and implementation choices can be discussed in detail during an interview.
+> **Disclaimer:** This game was developed by a team of four students during our first year at EPITA. In accordance with the school's strict academic integrity and anti-plagiarism policies, the source code (C#) for this project is kept private. This repository serves as a technical and visual showcase.
 
 ## About the Project
-"La Grande Evasion" is a 3D horror and puzzle game. The player must escape a medical prison patrolled by an artificial intelligence. The main objective is to explore the environment, solve mathematical equations, and decipher visual clues to unlock the final exit.
+"La Grande Evasion" is a 3D horror and puzzle game. The player must escape a medical prison patrolled by an artificial intelligence. The main objective is to explore the environment, solve various logic puzzles, and gather hidden clues to deduce the final exit code.
 
 ## Technical Features
 To meet the academic requirements (developed in Unity using C#), several interactive systems were implemented:
