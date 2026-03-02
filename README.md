@@ -38,6 +38,6 @@ Tools and technologies used for this build (1.76 GB):
 Academic project developed by a group of 4 engineering students at EPITA:
 
 * **Jessim Ziani** - Developer / UI & Level Designer
-* **Wael** - [@Wael-beginner](https://github.com/Wael-beginner)
-* **Youcef** - [@youcefzahra](https://github.com/youcefzahra)
-* **Skylegend** - [@skylegend31](https://github.com/skylegend31)
+* **Wael Akdar** - [@Wael-beginner](https://github.com/Wael-beginner) - Project Manager / Developer
+* **Youcef Zahra** - [@youcefzahra](https://github.com/youcefzahra) - AI & Gameplay Developer
+* **Ilann Oller** - [@skylegend31](https://github.com/skylegend31) - Puzzle Designer / Developer
