@@ -71,7 +71,7 @@ This project was developed by a team of 4 EPITA engineering students.
       </td>
       <td align="center">
         <a href="https://github.com/skylegend31">
-          <img src="https://github.com/ilann-oller.png" width="60px" style="border-radius: 50%;" alt="Ilann Oller"/><br />
+          <img src="https://github.com/skylegend31.png" width="60px" style="border-radius: 50%;" alt="Ilann Oller"/><br />
           <sub><b>Ilann Oller</b></sub>
         </a>
       </td>
