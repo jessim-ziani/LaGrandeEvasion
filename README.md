@@ -44,9 +44,41 @@ A pre-compiled Windows installer and its instruction manual are available for te
 
 https://github.com/user-attachments/assets/8685f126-00c0-49c2-bbe8-20ad76577cee
 
-### 👥 The Team
-* **[Wael Akhdar](https://github.com/Wael-Akhdar)**
-* **[Youcef Zahra](https://github.com/youcefzahra)**
-* **[Jessim Ziani](https://github.com/jessim-ziani)**
-* **[Ilann Oller](https://github.com/skylegend31)**
+## 👥 Contributors
+
+This project was developed by a team of 4 EPITA engineering students.
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/jessim-ziani">
+          <img src="https://github.com/jessim-ziani.png" width="60px" style="border-radius: 50%;" alt="Jessim Ziani"/><br />
+          <sub><b>Jessim Ziani</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Wael-Akhdar">
+          <img src="https://github.com/Wael-Akhdar.png" width="60px" style="border-radius: 50%;" alt="Wael Akhdar"/><br />
+          <sub><b>Wael Akhdar</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/youcefzahra">
+          <img src="https://github.com/youcefzahra.png" width="60px" style="border-radius: 50%;" alt="Youcef Zahra"/><br />
+          <sub><b>Youcef Zahra</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/skylegend31">
+          <img src="https://github.com/ilann-oller.png" width="60px" style="border-radius: 50%;" alt="Ilann Oller"/><br />
+          <sub><b>Ilann Oller</b></sub>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+**🛠️ Technologies:** C#, Unity, Photon PUN 2, Blender, Photoshop, Git.
 
